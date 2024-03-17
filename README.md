@@ -1,1 +1,1 @@
-# Surprise-Housing-Case-Study
+This case study revolves around Surprise Housing, a US-based real estate company, venturing into the Australian market. The objective is to develop a predictive model for house prices such that the company can strategically purchase houses below their market values and subsequently sell them at a profit.
